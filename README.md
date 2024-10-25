@@ -1,19 +1,18 @@
 ## Hi there 👋
 
-<!--
+
 **Muhammadhamza7/Muhammadhamza7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Got it! Here’s a quick GitHub profile introduction you could use:
+
+I'm Muhammad Hamza, a passionate web developer and aspiring MERN stack developer focused on building intuitive and responsive web applications. I’m currently diving deeper into React and Node.js and exploring open-source contributions. Besides coding, I enjoy learning about software testing and quality assurance to improve my development process.
+
+  🔭 I’m currently working on  my pr
+  🌱 I’m currently learning NextJS
+  📫 How to reach me: shakilhamza@gmail.com
+⚡ Fun fact: I am good at content writing
+
 
 
 ## 🌐 Socials:
