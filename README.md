@@ -5,7 +5,7 @@ I'm Muhammad Hamza, a passionate web developer and aspiring MERN stack developer
 
  - 🔭 I’m currently working on my progress
  - 🌱 I’m currently learning NextJS
- - 📫 How to reach me: shakilhamza@gmail.com
+ - 📫 How to reach me: shakilhamza2@gmail.com
  - ⚡ Fun fact: I am good at content writing
 
 
